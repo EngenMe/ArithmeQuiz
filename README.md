@@ -20,7 +20,7 @@ To run Math Challenge Game, you need a C++ compiler that supports C++11 or later
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/math-challenge-game.git
+git clone https://github.com/EngenMe/math-challenge-game.git
 cd math-challenge-game
 ```
 
